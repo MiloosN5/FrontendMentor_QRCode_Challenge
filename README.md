@@ -34,22 +34,22 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 During the development of this challenge, you get to know the structure of your website - what tags you should use to create the given design. In this projects were used both inline and block elements such as:
-  div - block element
+  * div - block element
   ```html
   <div class="main-div">
   ```
   or
-  img - inline element
-    ```html
+  * img - inline element
+  ```html
   <img src="images/image-qr-code.png" alt="image of QR code">
-    ```.
+  ```
 
 Along with HTML for structure, there is CSS for formatting. The context of CSS file is composed of:
-  Google Fonts import
+  * Google Fonts import
   ```css
   @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
   ```
-  custom CSS properties
+  * custom CSS properties
   ```css
   :root {
       --White: hsl(0, 0%, 100%);
@@ -59,7 +59,7 @@ Along with HTML for structure, there is CSS for formatting. The context of CSS f
       --attribution-link-color: hsl(228, 45%, 44%);
   }
   ```
-  boilerplate 
+  * boilerplate 
   ```css
   * {
       margin: 0;
@@ -68,7 +68,7 @@ Along with HTML for structure, there is CSS for formatting. The context of CSS f
       font-family: 'Outfit', sans-serif;
   }
   ```
-  css rules for HTML elements
+  * css rules for HTML elements
   ```css
   img {
       width: 100%;

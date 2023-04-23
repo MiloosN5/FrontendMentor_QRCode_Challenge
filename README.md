@@ -16,9 +16,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-
-![solution on mobile view](myimages/solution_mobileview375.jpg);
-![solution on desktop view](myimages/solution_desktopview1440.jpg);
+<div>
+  <img src="myimages/solution_mobileview375.jpg" width="auto" height="400" src="solution on mobile view"/>
+  <img src="myimages/solution_desktopview1440.jpg" width="auto" height="400" src="solution on desktop view"/>
+</div>
 
 ## My process
 

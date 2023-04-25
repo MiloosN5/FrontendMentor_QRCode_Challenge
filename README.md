@@ -21,6 +21,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   <img src="myimages/solution_desktopview1440.jpg" width="auto" height="400" src="solution on desktop view"/>
 </div>
 
+### Links
+
+- Solution URL: [My solution URL](https://github.com/MiloosN5/FrontendMentor_QRCode_Challenge)
+- Live Site URL: [My live site URL](https://miloosn5.github.io/FrontendMentor_QRCode_Challenge/)
+
+
 ## My process
 
 ### Built with
